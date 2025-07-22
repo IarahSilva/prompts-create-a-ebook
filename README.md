@@ -21,7 +21,7 @@
 |  título  | Crie um título de um ebook sobre lógica de programação, o ebook é do nicho de programação.O título deve ser épico e curto, e tenha uma temática mitologica, caveleiros.Me liste 5 exemplos. |          |
 | conteúdo | Faça um texto para o ebook, com foco em lógica de programação, listando os principais temas com exemplos de código. {REGRAS} Explique sempre de uma maneira simples, Deixe o texto enxuto, sempre deixe um título sugestivo por tópico |
 
-<h2>Microsoft Copilot:</h2>
+<p>Microsoft Copilot:</p>
 
 |  Ação  |  prompt                                                                                                                                                                                                 |
 | :----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
