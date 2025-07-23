@@ -1,9 +1,14 @@
-<<<<<<< HEAD
-=======
+
 <p align="center">
 <img width="100" src="assets/banner.png">
 </p>
 <hr>
+
+<p align="center">
+<img width="500" src="assets/capa03.png">
+</p>
+
+
 
 <h1>Projeto EBOOK Gerado por I.A.s</h1>
 <p>Projeto desenvolvido com o objetivo de gerar um ebook com as facilidades das ferramentas de IA</p>
@@ -11,7 +16,7 @@
 <h2>💻Tecnologias utilizadas no projeto</h2>
 <ul>
   <li><a href="https://chatgpt.com/" target="_blank" rel="external">ChatGTP</a></li>
-  <li><a href="https://www.midjourney.com/app/" target="_blank" rel="external">Microsoft Copilot</a></li>
+  <li><a href="https://copilot.microsoft.com/chats/RCMek8FamzdPYvSfWLts1" target="_blank" rel="external">Microsoft Copilot</a></li>
   <li><a href="https://www.microsoft.com/en/microsoft-365/powerpoint" target="_blank" rel="external">PowerPoint</a></li>
 </ul>
 
@@ -62,14 +67,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
->>>>>>> d5cf2104c4006a8048ebd1ee0b5163ce03d51b0c
 
