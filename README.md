@@ -51,9 +51,9 @@
 <p>
     <img 
       align=left 
-      margin=10 
+      margin=15
       width=80 
-      <img width="902" height="891" alt="eu" src="https://github.com/user-attachments/assets/6e1c4804-2512-400d-bacd-c950fa8b2164" />
+      <img width="700" height="100" alt="eu" src="https://github.com/user-attachments/assets/6e1c4804-2512-400d-bacd-c950fa8b2164" />
 
 <p>Iara Silva</p>
 
